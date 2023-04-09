@@ -9,7 +9,7 @@ const person = {
 let team =  players;
 let team1 =[];
 for(let i of players){
-	team1.add(i);
+	team1.push(i);
 }
 
 let cap1 = {};
