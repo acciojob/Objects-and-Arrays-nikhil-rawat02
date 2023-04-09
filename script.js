@@ -12,9 +12,9 @@ for(let i of players){
 	team1.push(i);
 }
 
-// let cap1 = {...person};
-let cap1=person;
-// person.name="gag";
+let cap1 = {...person};
+// let cap1=person;
+// person.name="gag"; 
 // console.log(cap1);
 
 // for(let i in person){
